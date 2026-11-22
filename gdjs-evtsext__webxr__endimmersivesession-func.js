@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__endImmersiveSession = {};
 gdjs.evtsExt__WebXR__endImmersiveSession.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__endImmersiveSession.userFunc0xd22b90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__endImmersiveSession.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var threeRenderer = runtimeScene.getGame().getRenderer().getThreeRenderer();
 if (!threeRenderer || !threeRenderer.xr || !threeRenderer.xr.getSession) {
@@ -26,7 +26,7 @@ gdjs.evtsExt__WebXR__endImmersiveSession.eventsList0 = function(runtimeScene, ev
 {
 
 
-gdjs.evtsExt__WebXR__endImmersiveSession.userFunc0xd22b90(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__endImmersiveSession.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 

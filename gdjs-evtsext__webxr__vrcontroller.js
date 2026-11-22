@@ -301,7 +301,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.userFunc0x154e2f8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -336,7 +336,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.userFunc0x154e2f8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.onCreatedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -422,7 +422,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.userFunc0x15f9318 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -543,7 +543,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.userFunc0x15f9318(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPreEventsContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -629,7 +629,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.userFunc0x14a2148 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -989,7 +989,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.userFunc0x14a2148(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.doStepPostEventsContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1075,7 +1075,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.userFunc0x1781538 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1116,7 +1116,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.userFunc0x1781538(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.onDestroyContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1202,7 +1202,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.idTo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.userFunc0x1548440 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1216,7 +1216,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.userFunc0x1548440(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsConnectedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1302,7 +1302,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.userFunc0x1548440 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1316,7 +1316,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.userFunc0x1548440(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1402,7 +1402,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedCon
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.userFunc0x154ecc8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1416,7 +1416,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedCon
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.userFunc0x154ecc8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1502,7 +1502,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.userFunc0x1547478 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1516,7 +1516,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.userFunc0x1547478(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsTriggerJustReleasedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1602,7 +1602,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.id
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.userFunc0x154b080 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1616,7 +1616,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.userFunc0x154b080(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1702,7 +1702,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContex
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.userFunc0x1548440 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1716,7 +1716,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContex
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.userFunc0x1548440(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1802,7 +1802,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.userFunc0x154ec90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1816,7 +1816,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.userFunc0x154ec90(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsGripJustReleasedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1902,7 +1902,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.userFunc0x1548440 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1916,7 +1916,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedC
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.userFunc0x1548440(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2002,7 +2002,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPres
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.userFunc0x154ecc8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2016,7 +2016,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPres
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.userFunc0x154ecc8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2102,7 +2102,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustRele
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.userFunc0x1553ef8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2116,7 +2116,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustRele
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.userFunc0x1553ef8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsPrimaryButtonJustReleasedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2202,7 +2202,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPresse
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.userFunc0x1502840 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2216,7 +2216,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPresse
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.userFunc0x1502840(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2302,7 +2302,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPr
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.userFunc0x154eb68 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2316,7 +2316,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPr
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.userFunc0x154eb68(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2402,7 +2402,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustRe
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.userFunc0x154b088 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2416,7 +2416,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustRe
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.userFunc0x154b088(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsSecondaryButtonJustReleasedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2502,7 +2502,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.userFunc0x15029e0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2516,7 +2516,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.userFunc0x15029e0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2602,7 +2602,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressed
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.userFunc0x1786000 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2616,7 +2616,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressed
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.userFunc0x1786000(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMenuButtonJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2702,7 +2702,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.userFunc0x1786188 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2716,7 +2716,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.userFunc0x1786188(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2802,7 +2802,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressed
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.userFunc0x15f9438 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2816,7 +2816,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressed
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.userFunc0x15f9438(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustPressedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2902,7 +2902,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustRelease
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.userFunc0x1502900 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2916,7 +2916,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustRelease
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.userFunc0x1502900(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsThumbstickJustReleasedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3002,7 +3002,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.idToCallbac
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.userFunc0x1554118 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3016,7 +3016,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.eventsList0
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.userFunc0x1554118(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3102,7 +3102,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.idToCallbac
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.userFunc0x1502a10 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3116,7 +3116,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.eventsList0
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.userFunc0x1502a10(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.JoyYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3202,7 +3202,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.idT
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3216,7 +3216,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.eve
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.TriggerValueContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3302,7 +3302,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.userFunc0x15f94b8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3316,7 +3316,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.userFunc0x15f94b8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.GripValueContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3402,7 +3402,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.userFunc0x1502af0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3416,7 +3416,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.userFunc0x1502af0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3502,7 +3502,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3516,7 +3516,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3602,7 +3602,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.userFunc0x1501e90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3616,7 +3616,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.userFunc0x1501e90(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VelocityZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3702,7 +3702,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.userFunc0x17805c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3716,7 +3716,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.userFunc0x17805c0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3802,7 +3802,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.userFunc0x1784ad8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3816,7 +3816,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.userFunc0x1784ad8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3902,7 +3902,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.userFunc0x15f94a0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3916,7 +3916,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.userFunc0x15f94a0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.AngularVelocityZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4002,7 +4002,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.userFunc0x1502b78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4019,7 +4019,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.userFunc0x1502b78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SwingSpeedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4105,7 +4105,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.userFunc0x15f8250 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4122,7 +4122,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.userFunc0x15f8250(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.StabSpeedContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4208,7 +4208,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4222,7 +4222,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4308,7 +4308,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.userFunc0x1501f88 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4322,7 +4322,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.userFunc0x1501f88(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4408,7 +4408,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.idToCa
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4422,7 +4422,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4508,7 +4508,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.userFunc0x1501f88 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4522,7 +4522,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.userFunc0x1501f88(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4608,7 +4608,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4622,7 +4622,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4708,7 +4708,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.userFunc0x154ed28 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4722,7 +4722,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.userFunc0x154ed28(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RayDirZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4808,7 +4808,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4824,7 +4824,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableMagneticGrabContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4910,7 +4910,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4926,7 +4926,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableMagneticGrabContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5012,7 +5012,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.userFunc0x1547360 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5028,7 +5028,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.userFunc0x1547360(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserPointerContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5114,7 +5114,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.userFunc0x1784ab0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5130,7 +5130,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.userFunc0x1784ab0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserPointerContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5216,7 +5216,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.id
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.userFunc0x1784ae8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5241,7 +5241,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.userFunc0x1784ae8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserColorContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5328,7 +5328,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.userFunc0x1501ff8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5342,7 +5342,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.userFunc0x1501ff8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserColorContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5429,7 +5429,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.i
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.userFunc0x154ebd8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5453,7 +5453,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.userFunc0x154ebd8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5540,7 +5540,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.idTo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.userFunc0x1784ad8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5554,7 +5554,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.userFunc0x1784ad8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5640,7 +5640,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.userFunc0x15f94a0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5659,7 +5659,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.userFunc0x15f94a0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetTargetingRayLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5746,7 +5746,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.userFunc0x1780858 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5760,7 +5760,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.userFunc0x1780858(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.TargetingRayLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5846,7 +5846,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.userFunc0x15f94a0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5864,7 +5864,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.userFunc0x15f94a0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserPitchOffsetContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -5951,7 +5951,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.userFunc0x1501e40 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -5965,7 +5965,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.userFunc0x1501e40(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserPitchOffsetContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6051,7 +6051,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeomet
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.userFunc0x1780570 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6067,7 +6067,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeomet
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.userFunc0x1780570(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserStopAtGeometryContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6153,7 +6153,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeome
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.userFunc0x154ec08 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6169,7 +6169,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeome
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.userFunc0x154ec08(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserStopAtGeometryContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6255,7 +6255,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.userFunc0x1780598 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6270,7 +6270,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.userFunc0x1780598(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserStopAtGeometryContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6356,7 +6356,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerCon
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.userFunc0x1780858 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6372,7 +6372,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerCon
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.userFunc0x1780858(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.EnableLaserHitMarkerContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6458,7 +6458,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.userFunc0x1784ab0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6474,7 +6474,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.userFunc0x1784ab0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.DisableLaserHitMarkerContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6560,7 +6560,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6575,7 +6575,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerEnabledContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6661,7 +6661,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.userFunc0x1780a60 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6685,7 +6685,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.userFunc0x1780a60(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetLaserHitMarkerSizeContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6772,7 +6772,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6786,7 +6786,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitMarkerSizeContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6872,7 +6872,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.userFunc0x15f8260 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6886,7 +6886,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryC
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.userFunc0x15f8260(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsLaserHittingGeometryContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -6972,7 +6972,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.userFunc0x1786110 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -6986,7 +6986,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.userFunc0x1786110(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitDistanceContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7072,7 +7072,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.i
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.userFunc0x154ed18 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7092,7 +7092,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.userFunc0x154ed18(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7178,7 +7178,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.i
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.userFunc0x17805f8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7198,7 +7198,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.userFunc0x17805f8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7284,7 +7284,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.i
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.userFunc0x1780a50 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7304,7 +7304,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.userFunc0x1780a50(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserHitPointZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7390,7 +7390,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveCon
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.userFunc0x154ecf0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7404,7 +7404,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveCon
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.userFunc0x154ecf0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.IsMagneticGrabActiveContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7490,7 +7490,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.userFunc0x17860c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7521,7 +7521,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.userFunc0x17860c0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.VibrateJoystickContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7609,7 +7609,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthCo
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.userFunc0x17863a8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7632,7 +7632,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.userFunc0x17863a8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7719,7 +7719,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.userFunc0x1780858 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7733,7 +7733,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.userFunc0x1780858(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabLengthContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7819,7 +7819,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorTol
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.userFunc0x1784be0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7842,7 +7842,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorTol
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.userFunc0x1784be0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetMagneticGrabErrorToleranceContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -7929,7 +7929,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorTolera
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.userFunc0x1502c90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -7943,7 +7943,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorTolera
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.userFunc0x1502c90(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabErrorToleranceContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8029,7 +8029,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.userFunc0x1547398 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8043,7 +8043,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.userFunc0x1547398(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.HandednessContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8129,7 +8129,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.userFunc0x15540c8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8146,7 +8146,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.userFunc0x15540c8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8233,7 +8233,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.userFunc0x1780598 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8247,7 +8247,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.userFunc0x1780598(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8333,7 +8333,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.userFunc0x1502c90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8350,7 +8350,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.userFunc0x1502c90(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8437,7 +8437,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.userFunc0x155a688 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8451,7 +8451,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.userFunc0x155a688(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8537,7 +8537,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.idToC
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.userFunc0x1780570 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8554,7 +8554,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.userFunc0x1780570(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetOffsetZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8641,7 +8641,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.idToCall
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.userFunc0x1780a00 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8655,7 +8655,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.userFunc0x1780a00(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.OffsetZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8741,7 +8741,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.userFunc0x1547380 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8758,7 +8758,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.userFunc0x1547380(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8845,7 +8845,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.userFunc0x1780b28 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8859,7 +8859,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.userFunc0x1780b28(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetXContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -8945,7 +8945,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.userFunc0x1780808 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -8962,7 +8962,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.userFunc0x1780808(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9049,7 +9049,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.userFunc0x1780858 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9063,7 +9063,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.userFunc0x1780858(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetYContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9149,7 +9149,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.userFunc0x1786348 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9166,7 +9166,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.userFunc0x1786348(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.SetRotationOffsetZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9253,7 +9253,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.userFunc0x1780a00 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9267,7 +9267,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.userFunc0x1780a00(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.RotationOffsetZContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9353,7 +9353,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContex
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.userFunc0x1780830 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9374,7 +9374,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContex
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.userFunc0x1780830(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrateRotationContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9460,7 +9460,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewConte
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.userFunc0x1502c60 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9481,7 +9481,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.userFunc0x1502c60(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.CalibrationPreviewContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9567,7 +9567,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.idT
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.userFunc0x15029c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9582,7 +9582,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.eve
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.userFunc0x15029c0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.LaserEnabledContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -9668,7 +9668,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledCont
 gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.userFunc0x17805c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.userFunc0x1579be8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -9683,7 +9683,7 @@ gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.userFunc0x17805c0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrController.VrController.prototype.MagneticGrabEnabledContext.userFunc0x1579be8(runtimeScene, objects, eventsFunctionContext);
 
 }
 

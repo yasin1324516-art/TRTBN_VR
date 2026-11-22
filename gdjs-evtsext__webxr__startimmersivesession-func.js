@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__startImmersiveSession = {};
 gdjs.evtsExt__WebXR__startImmersiveSession.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__startImmersiveSession.userFunc0xd22b90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__startImmersiveSession.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var gameRenderer = runtimeScene.getGame().getRenderer();
 var threeRenderer = gameRenderer && gameRenderer.getThreeRenderer ? gameRenderer.getThreeRenderer() : null;
@@ -182,7 +182,7 @@ gdjs.evtsExt__WebXR__startImmersiveSession.eventsList0 = function(runtimeScene, 
 {
 
 
-gdjs.evtsExt__WebXR__startImmersiveSession.userFunc0xd22b90(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__startImmersiveSession.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 

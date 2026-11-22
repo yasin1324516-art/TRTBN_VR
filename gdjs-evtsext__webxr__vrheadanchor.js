@@ -229,7 +229,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext.userFunc0x16d8f50 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 var objs = eventsFunctionContext.getObjects("Object");
@@ -594,7 +594,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext
 {
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext.userFunc0x16d8f50(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.doStepPostEventsContext.userFunc0x12a8728(runtimeScene, eventsFunctionContext);
 
 }
 
@@ -680,7 +680,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.id
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.userFunc0x155ca18 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -694,7 +694,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.userFunc0x155ca18(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadsetHeightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -780,7 +780,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.idToCall
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.userFunc0x16d8b70 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -794,7 +794,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.userFunc0x16d8b70(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadYawContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -880,7 +880,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.idToCa
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.userFunc0x14b7ee8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -894,7 +894,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.userFunc0x14b7ee8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadPitchContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -980,7 +980,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.idToCal
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.userFunc0x16d8fd0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -994,7 +994,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.eventsL
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.userFunc0x16d8fd0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadRollContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1080,7 +1080,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.i
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.userFunc0x14b8038 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1106,7 +1106,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.userFunc0x14b8038(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StartCrouchingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1192,7 +1192,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.id
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.userFunc0x155ccc0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1285,7 +1285,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.userFunc0x155ccc0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.StopCrouchingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1371,7 +1371,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.idTo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.userFunc0x1504220 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1385,7 +1385,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.userFunc0x1504220(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsCrouchingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1471,7 +1471,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.userFunc0x1505820 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1524,7 +1524,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.userFunc0x1505820(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CanStopCrouchingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1610,7 +1610,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.i
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.userFunc0x1506da8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1627,7 +1627,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.userFunc0x1506da8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchScaleContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1714,7 +1714,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.idTo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.userFunc0x1508218 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1728,7 +1728,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.userFunc0x1508218(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchScaleContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1814,7 +1814,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorCo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.userFunc0x1509848 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1831,7 +1831,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.userFunc0x1509848(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetCrouchHeightFactorContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1918,7 +1918,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorConte
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.userFunc0x150add0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1932,7 +1932,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.userFunc0x150add0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.CrouchHeightFactorContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2018,7 +2018,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.userFunc0x150c2d8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2035,7 +2035,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.userFunc0x150c2d8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetVirtualHeightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2122,7 +2122,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledC
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.userFunc0x150d7b0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2137,7 +2137,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledC
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.userFunc0x150d7b0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.IsVirtualHeightEnabledContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2223,7 +2223,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.id
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.userFunc0x150ec58 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2237,7 +2237,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.userFunc0x150ec58(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.VirtualHeightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2323,7 +2323,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.userFunc0x155cd48 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2340,7 +2340,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.userFunc0x155cd48(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.EffectiveHeightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2426,7 +2426,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleCon
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.userFunc0x1506fd8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2451,7 +2451,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleCon
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.userFunc0x1506fd8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementForwardAngleContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2537,7 +2537,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContex
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.userFunc0x150af78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2555,7 +2555,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContex
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.userFunc0x150af78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.HeadBodyYawOffsetContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2641,7 +2641,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.idToCall
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.userFunc0x1507548 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2657,7 +2657,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.eventsLi
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.userFunc0x1507548(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2743,7 +2743,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionMod
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.userFunc0x1786b70 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2760,7 +2760,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionMod
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.userFunc0x1786b70(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementDirectionModeContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2847,7 +2847,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeCo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.userFunc0x1504530 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2861,7 +2861,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeCo
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.userFunc0x1504530(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementDirectionModeContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2947,7 +2947,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneConte
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.userFunc0x150c490 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -2964,7 +2964,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneConte
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.userFunc0x150c490(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawDeadzoneContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3051,7 +3051,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.userFunc0x150d980 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3065,7 +3065,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.userFunc0x150d980(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawDeadzoneContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3151,7 +3151,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingCont
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.userFunc0x15084d8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3168,7 +3168,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingCont
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.userFunc0x15084d8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetBodyYawSmoothingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3255,7 +3255,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.userFunc0x1509ac8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3269,7 +3269,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.userFunc0x1509ac8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.BodyYawSmoothingContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3355,7 +3355,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHa
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.userFunc0x1508540 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3372,7 +3372,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHa
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.userFunc0x1508540(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetMovementControllerHandContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3459,7 +3459,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandC
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.userFunc0x1509968 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3473,7 +3473,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandC
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.userFunc0x1509968(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.MovementControllerHandContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3559,7 +3559,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.i
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.userFunc0x1509a78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3580,7 +3580,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.userFunc0x1509a78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxRightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3667,7 +3667,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.idTo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.userFunc0x16d8f78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3681,7 +3681,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.userFunc0x16d8f78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxRightContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3767,7 +3767,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.id
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.userFunc0x1508500 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3788,7 +3788,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.userFunc0x1508500(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxLeftContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3875,7 +3875,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.idToC
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.userFunc0x1504508 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3889,7 +3889,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.userFunc0x1504508(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxLeftContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3975,7 +3975,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.idT
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.userFunc0x1786b08 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -3996,7 +3996,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.eve
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.userFunc0x1786b08(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxTopContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4083,7 +4083,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.idToCa
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.userFunc0x16d8f50 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4097,7 +4097,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.userFunc0x16d8f50(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxTopContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4183,7 +4183,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.userFunc0x16d8f28 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4204,7 +4204,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.userFunc0x16d8f28(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBottomContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4291,7 +4291,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.idT
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.userFunc0x1509b00 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4305,7 +4305,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.eve
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.userFunc0x1509b00(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBottomContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4391,7 +4391,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.i
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.userFunc0x1509968 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4412,7 +4412,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.userFunc0x1509968(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxFrontContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4499,7 +4499,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.idTo
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.userFunc0x1509968 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4513,7 +4513,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.userFunc0x1509968(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxFrontContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4599,7 +4599,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.id
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.userFunc0x1506e90 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4620,7 +4620,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.userFunc0x1506e90(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SetSkyboxBackContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -4707,7 +4707,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.idToC
 gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.userFunc0x150c4e0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.userFunc0x12a8728 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 var objs = eventsFunctionContext.getObjects("Object");
 var behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -4721,7 +4721,7 @@ gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.event
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.GDObjectObjects1;
-gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.userFunc0x150c4e0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrHeadAnchor.VrHeadAnchor.prototype.SkyboxBackContext.userFunc0x12a8728(runtimeScene, objects, eventsFunctionContext);
 
 }
 

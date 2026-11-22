@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__updateWebXRSupportCache = {};
 gdjs.evtsExt__WebXR__updateWebXRSupportCache.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__updateWebXRSupportCache.userFunc0xd22b90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__updateWebXRSupportCache.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 gdjs._WebXRVRSupported = false;
 if (navigator.xr && navigator.xr.isSessionSupported) {
@@ -27,7 +27,7 @@ gdjs.evtsExt__WebXR__updateWebXRSupportCache.eventsList0 = function(runtimeScene
 {
 
 
-gdjs.evtsExt__WebXR__updateWebXRSupportCache.userFunc0xd22b90(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__updateWebXRSupportCache.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 

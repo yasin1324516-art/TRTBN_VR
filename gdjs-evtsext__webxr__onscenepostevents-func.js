@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__onScenePostEvents = {};
 gdjs.evtsExt__WebXR__onScenePostEvents.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__onScenePostEvents.userFunc0xd22b90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__onScenePostEvents.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var tr = runtimeScene.getGame().getRenderer().getThreeRenderer();
 if (!tr || !tr.xr) {
@@ -42,7 +42,7 @@ gdjs.evtsExt__WebXR__onScenePostEvents.eventsList0 = function(runtimeScene, even
 {
 
 
-gdjs.evtsExt__WebXR__onScenePostEvents.userFunc0xd22b90(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__onScenePostEvents.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 

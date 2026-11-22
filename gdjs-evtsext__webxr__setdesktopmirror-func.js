@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__SetDesktopMirror = {};
 gdjs.evtsExt__WebXR__SetDesktopMirror.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__SetDesktopMirror.userFunc0xd22b90 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__SetDesktopMirror.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 gdjs._webxrVrMirrorEnabled = !!eventsFunctionContext.getArgument("Enabled");
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__SetDesktopMirror.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__WebXR__SetDesktopMirror.userFunc0xd22b90(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__SetDesktopMirror.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 

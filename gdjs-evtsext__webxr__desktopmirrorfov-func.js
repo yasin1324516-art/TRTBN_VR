@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__DesktopMirrorFov = {};
 gdjs.evtsExt__WebXR__DesktopMirrorFov.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__DesktopMirrorFov.userFunc0xfc7dd8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__DesktopMirrorFov.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (typeof gdjs._webxrVrMirrorFovDeg === 'number') ? gdjs._webxrVrMirrorFovDeg : 75;
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__DesktopMirrorFov.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__WebXR__DesktopMirrorFov.userFunc0xfc7dd8(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__DesktopMirrorFov.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
 
 }
 
