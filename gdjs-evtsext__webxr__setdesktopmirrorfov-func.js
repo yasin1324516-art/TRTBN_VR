@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__SetDesktopMirrorFov = {};
 gdjs.evtsExt__WebXR__SetDesktopMirrorFov.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__SetDesktopMirrorFov.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__SetDesktopMirrorFov.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var v = eventsFunctionContext.getArgument("Degrees");
 gdjs._webxrVrMirrorFovDeg = (typeof v === 'number' && isFinite(v) && v > 0) ? Math.max(1, Math.min(179, v)) : 0;
@@ -19,7 +19,7 @@ gdjs.evtsExt__WebXR__SetDesktopMirrorFov.eventsList0 = function(runtimeScene, ev
 {
 
 
-gdjs.evtsExt__WebXR__SetDesktopMirrorFov.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__SetDesktopMirrorFov.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

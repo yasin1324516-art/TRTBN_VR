@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__isWebXRSupported = {};
 gdjs.evtsExt__WebXR__isWebXRSupported.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__isWebXRSupported.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__isWebXRSupported.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (typeof gdjs !== 'undefined' && gdjs._WebXRVRSupported === true);
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__isWebXRSupported.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__WebXR__isWebXRSupported.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__isWebXRSupported.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

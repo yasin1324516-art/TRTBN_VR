@@ -153,7 +153,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.GDPlac
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.userFunc0x1d60dd0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.userFunc0x1a75510 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const {
     Light3DRenderer,
@@ -240,7 +240,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.userFunc0x1d60dd0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onCreatedContext.userFunc0x1a75510(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -351,7 +351,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.GDObje
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.userFunc0x1d616c8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.userFunc0x1f4a7d8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 /** @type {gdjs.CustomRuntimeObject} */
 const object = objects[0];
@@ -369,7 +369,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.events
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.userFunc0x1d616c8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.onDestroyContext.userFunc0x1f4a7d8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -758,7 +758,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.GDO
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.userFunc0xb33ae8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.userFunc0x1a84a60 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const game = runtimeScene.getGame();
 if (game.isInGameEdition && game.isInGameEdition()) {
@@ -774,7 +774,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.eve
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.userFunc0xb33ae8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateHelperContext.userFunc0x1a84a60(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -865,7 +865,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.GDOb
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.userFunc0xf20640 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.userFunc0x1a84a60 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 /** @type {gdjs.CustomRuntimeObject3D} */
 const object = objects[0];
@@ -879,7 +879,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.even
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.userFunc0xf20640(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.UpdateImageContext.userFunc0x1a84a60(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1077,7 +1077,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.GDP
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.userFunc0x1d61798 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.userFunc0x1e43a48 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const coneAngle = eventsFunctionContext.getArgument("Value");
@@ -1109,7 +1109,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.userFunc0x1d61798(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeAngleContext.userFunc0x1e43a48(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1312,7 +1312,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.GDPlace
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.userFunc0x1d616c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.userFunc0xd05618 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const color = eventsFunctionContext.getArgument("Value");
@@ -1338,7 +1338,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.userFunc0x1d616c0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetColorContext.userFunc0xd05618(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1541,7 +1541,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.GDP
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.userFunc0x1d60b60 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.userFunc0x1f2a5f8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -1567,7 +1567,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.userFunc0x1d60b60(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetSmoothingContext.userFunc0x1f2a5f8(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -1770,7 +1770,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.GDP
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.userFunc0x1de5b78 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.userFunc0x1a75478 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -1797,7 +1797,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.userFunc0x1de5b78(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetIntensityContext.userFunc0x1a75478(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2000,7 +2000,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.GDPlace
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.userFunc0x1d60e28 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.userFunc0x1a75458 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -2026,7 +2026,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.userFunc0x1d60e28(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetDecayContext.userFunc0x1a75458(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2232,7 +2232,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.userFunc0x1d60cc8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.userFunc0x1a74a48 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -2276,7 +2276,7 @@ if (isConditionTrue_0) {
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.userFunc0x1d60cc8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetCastingShadowContext.userFunc0x1a74a48(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2387,7 +2387,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.G
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.userFunc0xf452b8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.userFunc0x1e43d00 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const targetX = eventsFunctionContext.getArgument("TargetX");
@@ -2403,7 +2403,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.e
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.userFunc0xf452b8(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.LookAtPositionContext.userFunc0x1e43d00(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2723,7 +2723,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.userFunc0x1d60cf0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.userFunc0x1f2a560 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -2754,7 +2754,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.userFunc0x1d60cf0(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowQualityContext.userFunc0x1f2a560(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -2957,7 +2957,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlan
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.userFunc0x1d61978 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.userFunc0x1550858 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -2984,7 +2984,7 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.userFunc0x1d61978(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetShadowCameraNearPlaneContext.userFunc0x1550858(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3404,7 +3404,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.GD
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.GDPlaceholderObjects2= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.userFunc0xf21098 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.userFunc0x1e43900 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -3419,7 +3419,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.ev
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.userFunc0xf21098(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.SetConeLengthContext.userFunc0x1e43900(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3547,7 +3547,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPla
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.userFunc0xf21d48 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.userFunc0x1a76428 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -3562,7 +3562,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPla
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.userFunc0xf21d48(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowCameraFarPlaneContext.userFunc0x1a76428(runtimeScene, objects, eventsFunctionContext);
 
 }
 
@@ -3871,7 +3871,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.
 gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.GDPlaceholderObjects1= [];
 
 
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.userFunc0xf21d48 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.userFunc0x1a76428 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const value = eventsFunctionContext.getArgument("Value");
@@ -3888,7 +3888,7 @@ gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.
 gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.GDObjectObjects1);
 
 const objects = gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.GDObjectObjects1;
-gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.userFunc0xf21d48(runtimeScene, objects, eventsFunctionContext);
+gdjs.evtsExt__Light3D__SpotLight3D.SpotLight3D.prototype.ApplyShadowBiasContext.userFunc0x1a76428(runtimeScene, objects, eventsFunctionContext);
 
 }
 

@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__isRunningAsPWA = {};
 gdjs.evtsExt__WebXR__isRunningAsPWA.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__isRunningAsPWA.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__isRunningAsPWA.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (window.getDigitalGoodsService !== undefined);
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__isRunningAsPWA.eventsList0 = function(runtimeScene, eventsF
 {
 
 
-gdjs.evtsExt__WebXR__isRunningAsPWA.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__isRunningAsPWA.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

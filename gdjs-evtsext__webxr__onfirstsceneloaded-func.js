@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__onFirstSceneLoaded = {};
 gdjs.evtsExt__WebXR__onFirstSceneLoaded.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__onFirstSceneLoaded.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__onFirstSceneLoaded.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 if (typeof gdjs !== 'undefined' && gdjs._WebXRVR_InitDone) {
     return;
@@ -559,7 +559,7 @@ gdjs.evtsExt__WebXR__onFirstSceneLoaded.eventsList0 = function(runtimeScene, eve
 {
 
 
-gdjs.evtsExt__WebXR__onFirstSceneLoaded.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__onFirstSceneLoaded.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

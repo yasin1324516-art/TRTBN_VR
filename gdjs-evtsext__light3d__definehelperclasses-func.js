@@ -9,7 +9,7 @@ gdjs.evtsExt__Light3D__DefineHelperClasses = {};
 gdjs.evtsExt__Light3D__DefineHelperClasses.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__Light3D__DefineHelperClasses.userFunc0x9cb128 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Light3D__DefineHelperClasses.userFunc0x1e006e0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 //@ts-ignore
 if (gdjs.__light3DExtension) {
@@ -551,7 +551,7 @@ gdjs.evtsExt__Light3D__DefineHelperClasses.eventsList0 = function(runtimeScene, 
 {
 
 
-gdjs.evtsExt__Light3D__DefineHelperClasses.userFunc0x9cb128(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Light3D__DefineHelperClasses.userFunc0x1e006e0(runtimeScene, eventsFunctionContext);
 
 }
 

@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__setWorldScale = {};
 gdjs.evtsExt__WebXR__setWorldScale.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__setWorldScale.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__setWorldScale.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var val = eventsFunctionContext.getArgument("WorldScale");
 gdjs._webxrVrWorldScale = (typeof val === 'number' && val > 0) ? val : 100;
@@ -19,7 +19,7 @@ gdjs.evtsExt__WebXR__setWorldScale.eventsList0 = function(runtimeScene, eventsFu
 {
 
 
-gdjs.evtsExt__WebXR__setWorldScale.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__setWorldScale.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

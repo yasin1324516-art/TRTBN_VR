@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled = {};
 gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (gdjs._webxrVrFrustumCullEnabled !== false);
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.eventsList0 = function(runtimeSce
 {
 
 
-gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__isVrFrustumCullingEnabled.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

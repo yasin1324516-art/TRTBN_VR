@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale = {};
 gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (typeof gdjs._webxrVrCullRadiusScale === 'number') ? gdjs._webxrVrCullRadiusScale : 2.0;
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.eventsList0 = function(runtimeScen
 {
 
 
-gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrFrustumCullRadiusScale.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

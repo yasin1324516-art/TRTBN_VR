@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep = {};
 gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var m = eventsFunctionContext.getArgument("Meters");
 gdjs._webxrVrCullNearKeepMeters = (typeof m === 'number' && m >= 0) ? m : 5.0;
@@ -19,7 +19,7 @@ gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.eventsList0 = function(runtimeScen
 {
 
 
-gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__SetVrFrustumCullNearKeep.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

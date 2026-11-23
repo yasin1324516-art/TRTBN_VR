@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__isImmersiveVRActive = {};
 gdjs.evtsExt__WebXR__isImmersiveVRActive.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__isImmersiveVRActive.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__isImmersiveVRActive.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var tr = runtimeScene.getGame().getRenderer().getThreeRenderer();
 eventsFunctionContext.returnValue = !!(tr && tr.xr && tr.xr.isPresenting);
@@ -19,7 +19,7 @@ gdjs.evtsExt__WebXR__isImmersiveVRActive.eventsList0 = function(runtimeScene, ev
 {
 
 
-gdjs.evtsExt__WebXR__isImmersiveVRActive.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__isImmersiveVRActive.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__setVrFrustumCullMargin = {};
 gdjs.evtsExt__WebXR__setVrFrustumCullMargin.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__setVrFrustumCullMargin.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__setVrFrustumCullMargin.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 var sc = eventsFunctionContext.getArgument("RadiusScale");
 var mm = eventsFunctionContext.getArgument("MarginMeters");
@@ -21,7 +21,7 @@ gdjs.evtsExt__WebXR__setVrFrustumCullMargin.eventsList0 = function(runtimeScene,
 {
 
 
-gdjs.evtsExt__WebXR__setVrFrustumCullMargin.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__setVrFrustumCullMargin.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 

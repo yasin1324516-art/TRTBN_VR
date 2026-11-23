@@ -9,7 +9,7 @@ gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters = {};
 gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.userFunc0x1aabb80 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.userFunc0x160ad58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = (typeof gdjs._webxrVrCullNearKeepMeters === 'number') ? gdjs._webxrVrCullNearKeepMeters : 5.0;
 };
@@ -18,7 +18,7 @@ gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.eventsList0 = function(runtimeS
 {
 
 
-gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.userFunc0x1aabb80(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__WebXR__VrFrustumCullNearKeepMeters.userFunc0x160ad58(runtimeScene, eventsFunctionContext);
 
 }
 
